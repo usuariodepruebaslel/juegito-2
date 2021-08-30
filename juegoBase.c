@@ -4,7 +4,7 @@ int main(int argc, int a, char** argv)
 	printf("-uwu?\n\n");
 	printf("La minita es re linda y re anime\n\n");
 	printf("Que haces?\n\n");
-	printf("1.Decirle uwu de vuelta\n2.Decirle que la chupe\n3.Ignorarla epicamente\n\n");
+	printf("1.decirle perro chocolo\n2.Decirle que la chupe\n3.Ignorarla epicamente\n\n");
 	printf("Elige una opcion: ");
 	scanf("%d",&a);
 	if (a==1)
